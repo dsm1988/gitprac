@@ -2,3 +2,4 @@ the adversary types "waddup"
 this message seems fine.
 hi.
 bye.
+oooh hi there
