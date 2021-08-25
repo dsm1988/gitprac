@@ -1,1 +1,2 @@
-the adversary types "waddup" <--- shitty messages
+the adversary types "waddup"
+this message seems fine.
